@@ -19,8 +19,5 @@ This app fetches images from the Picsum API and displays them in a clean grid la
 
 ## 📡 API Used
 
--https://picsum.photos/
+- https://picsum.photos/
 
----
-
-## 💻Live Demo
